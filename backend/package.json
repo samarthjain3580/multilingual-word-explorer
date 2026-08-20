@@ -1,0 +1,17 @@
+{
+  "name": "multilingual-word-explorer-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Multilingual Word Explorer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Samarth",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}

@@ -38,6 +38,12 @@ multilingual-word-explorer/
 - Git
 - PostgreSQL (needed from Phase 11)
 
+## Project Location
+
+```
+D:\Users\Lenovo\Projects\multilingual-word-explorer
+```
+
 ## Getting Started
 
 > Backend and frontend setup will be added in upcoming phases.
